@@ -254,4 +254,6 @@ def update_and_delete_data():
         if 'cnx' in locals() and cnx.is_connected():
             cnx.close()
 
-if __name__ == "__main
+if __name__ == "__main__":
+
+
